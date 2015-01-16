@@ -1,0 +1,21 @@
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe.config
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.pdb
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.csprojResolveAssemblyReference.cache
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.exe
+D:\Users\Jan Christian\Documents\Visual Studio 2013\Projects\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.pdb
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe.config
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.exe
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.pdb
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.pdb
+C:\Users\Ethan\Documents\GitHub\ServiceOrientedPractice\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.csprojResolveAssemblyReference.cache
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe.config
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.pdb
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.exe
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.pdb
+D:\Users\Jan Christian\Google Drive\Arizona State University\CSE445\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.csprojResolveAssemblyReference.cache
+D:\Users\Jan Christian\Desktop\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\bin\Debug\CSE445_A2_JCKortlang.exe.config
+D:\Users\Jan Christian\Desktop\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.exe
+D:\Users\Jan Christian\Desktop\CSE445_A2_JCKortlang\CSE445_A2_JCKortlang\obj\Debug\CSE445_A2_JCKortlang.pdb
